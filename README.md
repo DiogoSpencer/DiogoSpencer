@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Diogo, Nice to meet you 👋
 
+I'm a MSc Computer Science Engineering Student at [NOVA School of Science and Technology | FCT NOVA]https://www.fct.unl.pt/en<br/>
+
+Currently I'm finishing my Master thesis in the field of Cybersecurity and Criptography titled: Investigating Key Rotation Security In Oblivious Pseudorandom Function Protocols.
+
+I'm really excited to learn more 
 <!--
 **DiogoSpencer/DiogoSpencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
